@@ -1,17 +1,17 @@
-# Telegram Bot for Khalaqiat va Neshat Ceremony
+# Telegram Bot for creativity Ceremony
 
-This project is a Telegram bot designed for the Khalaqiat va Neshat ceremony at Yazd University. It features registration via QR code generation, voting, sending memes, and more.
+This project is a Telegram bot designed for the creativity ceremony at Yazd University. It features consist of registration via QR code generation, comunicating admins, voting, sending memes,receving organizers notice and more.
 
 ## Features
 
 - **User Menu:**
   - Send messages
   - View event schedule
-  - Participate in AI quiz
+  - Participate in AI contest
   - View QR code for registration
   - View image gallery
   - Edit user information
-  - Send memes
+  - Sending memes
   - Participate in polls for faculty talk shows
 
 - **Admin Menu:**
@@ -21,7 +21,8 @@ This project is a Telegram bot designed for the Khalaqiat va Neshat ceremony at 
   - View admin list
   - Promote/Unpromote users
   - Broadcast messages
-  - Show chat
+  - Show chats
+  - answering qustions
 
 ## Requirements
 
@@ -32,8 +33,8 @@ This project is a Telegram bot designed for the Khalaqiat va Neshat ceremony at 
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <github.com/mahdiahmadii/CreativeDay403_telebot)>
+   cd <CreativeDay403_telebot>
    ```
 
 2. Install the required packages:
@@ -63,6 +64,6 @@ This bot is developed by an enthusiast of creating Telegram bots using the Teleb
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
 
 
