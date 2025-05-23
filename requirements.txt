@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.14.0  # Or the version you are using
+pysqlite3==0.5.1  # Or the version you are using
+opencv-python==4.9.0.80 # Or the version you are using
+pyzbar==0.2.0 # Or the version you are using
