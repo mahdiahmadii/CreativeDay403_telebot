@@ -1,4 +1,4 @@
-# Telegram Bot for creativity Ceremony
+# Telegram Bot for creativityday Ceremony
 
 This project is a Telegram bot designed for the creativity ceremony at Yazd University. It features consist of registration via QR code generation, comunicating admins, voting, sending memes,receving organizers notice and more.
 
